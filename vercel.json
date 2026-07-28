@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Eslam%20Ramadan%20CV.dc.html" }
+  ]
+}
